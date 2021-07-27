@@ -1,4 +1,4 @@
-//find the maximum sun of a contingous subarray of 3
+//find the maximum sum of a contingous subarray of 3
 
 //method: sliding window
 
