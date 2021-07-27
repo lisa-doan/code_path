@@ -10,4 +10,3 @@ function reverseString(string){
 }
 
 console.log(reverseString('dog'))
-
